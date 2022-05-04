@@ -1,1 +1,1 @@
-code=pain
+no code, no pain
