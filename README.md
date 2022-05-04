@@ -1,1 +1,1 @@
-Good bye, Hexlet
+no code, no pain
